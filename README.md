@@ -31,7 +31,7 @@ This privacy policy may be updated occasionally. Any changes will be posted here
 
 ## Contact
 For questions about this privacy policy, contact:
-[shajith.it.is@gmail.com]
+[mailto://shajith.it.is@gmail.com]
 
 ## Consent
 Using this app means you accept this privacy policy and how it handles your information as described above. 
