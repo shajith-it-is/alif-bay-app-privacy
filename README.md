@@ -1,37 +1,37 @@
 # Privacy Policy for Hygiene App
 
-**Last updated:** 15/March/2025
+**Last updated:** 15th March,2025
 
 ## Introduction
-Welcome to the Hygiene App ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+This privacy policy explains how your information is handled when you use the Hygiene App. This app is designed with privacy as the top priority, keeping all your data strictly on your device.
 
-## Information We Don't Collect
-Our app is designed with your privacy in mind. We want to be clear that:
-- We do not collect any personal information
-- We do not track your location
-- We do not access your contacts or other device information
-- We do not share any data with third parties
-- We do not use analytics services
+## Information Collection
+The Hygiene App is designed to respect your privacy completely:
+- No personal information is collected
+- No location tracking
+- No access to contacts or other device information
+- No data sharing with third parties
+- No analytics services
 
-## Information Storage
-All your app data (including task completion history and preferences) is stored locally on your device. This means:
-- Your data never leaves your device
-- Your data is not backed up to any cloud service
-- Your data is automatically deleted if you uninstall the app
+## Data Storage
+Your app data (including task completion history and preferences) is:
+- Stored only on your device
+- Never uploaded to any cloud service
+- Automatically deleted when you uninstall the app
 
-## Permissions
-Our app requires minimal permissions to function:
-- Storage permission: Only used to store your task completion history and preferences locally on your device
+## App Permissions
+The app requires minimal permissions:
+- Storage permission: Used only to store your task completion history and preferences locally on your device
 
 ## Children's Privacy
-Our app does not knowingly collect any personal information from children under the age of 13.
+This app does not collect any personal information from anyone, including children under the age of 13.
 
-## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+## Updates to Privacy Policy
+This privacy policy may be updated occasionally. Any changes will be posted here with an updated date.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-shajith.it.is@gmail.com
+## Contact
+For questions about this privacy policy, contact:
+[shajith.it.is@gmail.com]
 
 ## Consent
-By using our app, you agree to our Privacy Policy and consent to our collection and use of information as described above.
+Using this app means you accept this privacy policy and how it handles your information as described above. 
