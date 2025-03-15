@@ -1,4 +1,4 @@
-# Privacy Policy for Hygiene App
+# Privacy Policy for Alif Bay App
 
 **Last updated:** 15th March,2025
 
